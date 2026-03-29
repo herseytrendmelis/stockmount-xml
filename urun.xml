@@ -2,7 +2,6 @@
 <products>
   <product>
     <name>Unisex Çocuk Polis Kıyafeti Şapka Gömlek Pantolon Takımı</name>
-    <sku>HT001</sku>
     <price>1500</price>
     <currency>TRY</currency>
     <stock>100</stock>
@@ -16,6 +15,10 @@
     </images>
 
     <options>
+      <option>
+        <name>Ürün Kodu</name>
+        <value>HT001</value>
+      </option>
       <option>
         <name>Beden</name>
         <value>0-2 Yaş</value>
