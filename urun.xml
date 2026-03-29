@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Unisex Çocuk Polis Kıyafeti Şapka Gömlek Pantolon Takımı</name>
+    <sku>9680</sku>
+    <price>1500</price>
+    <currency>TRY</currency>
+    <stock>100</stock>
+    <category>Çocuk Kostüm</category>
+    <description>Çocuklar için polis kostümü. Şapka, gömlek ve pantolon takımı.</description>
+
+    <images>
+      <image>https://static.ticimax.cloud/71431/uploads/urunresimleri/buyuk/unisex-cocuk-polis-kiyafeti-sapka-goml-11-26d.jpg</image>
+      <image>https://static.ticimax.cloud/71431/uploads/urunresimleri/buyuk/unisex-cocuk-polis-kiyafeti-sapka-goml-4b38-8.jpg</image>
+      <image>https://static.ticimax.cloud/cdn-cgi/image/width=0,quality=85,format=webp/71431/uploads/urunresimleri/buyuk/unisex-cocuk-polis-kiyafeti-sapka-goml-5-48b0.jpg</image>
+    </images>
+
+    <variants>
+      <variant>
+        <size>0-2 Yaş</size>
+        <stock>10</stock>
+        <price>1500</price>
+      </variant>
+      <variant>
+        <size>3-4 Yaş</size>
+        <stock>10</stock>
+        <price>1500</price>
+      </variant>
+      <variant>
+        <size>5-6 Yaş</size>
+        <stock>10</stock>
+        <price>1500</price>
+      </variant>
+      <variant>
+        <size>7-8 Yaş</size>
+        <stock>10</stock>
+        <price>1500</price>
+      </variant>
+      <variant>
+        <size>9-10 Yaş</size>
+        <stock>10</stock>
+        <price>1500</price>
+      </variant>
+    </variants>
+
+  </product>
+</products>
