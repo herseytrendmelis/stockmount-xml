@@ -2,9 +2,9 @@
 <products>
   <product>
     <name>Unisex Çocuk Polis Kıyafeti Şapka Gömlek Pantolon Takımı</name>
+    <stock>100</stock>
     <price>1500</price>
     <currency>TRY</currency>
-    <stock>100</stock>
     <category>Çocuk Kostüm</category>
     <description>Çocuklar için polis kostümü. Şapka, gömlek ve pantolon takımı.</description>
 
