@@ -2,11 +2,12 @@
 <products>
   <product>
     <name>Unisex Çocuk Polis Kıyafeti Şapka Gömlek Pantolon Takımı</name>
-    <stock>100</stock>
+    <sku>HT001</sku>
     <price>1500</price>
     <currency>TRY</currency>
+    <stock>100</stock>
     <category>Çocuk Kostüm</category>
-    <description>Çocuklar için polis kostümü. Şapka, gömlek ve pantolon takımı.</description>
+    <description>Çocuklar için polis kostümü. Takım şapka, gömlek ve pantolondan oluşmaktadır. Eğlenceli ve kaliteli malzemeden üretilmiştir.</description>
 
     <images>
       <image>https://static.ticimax.cloud/71431/uploads/urunresimleri/buyuk/unisex-cocuk-polis-kiyafeti-sapka-goml-11-26d.jpg</image>
